@@ -1,0 +1,15 @@
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.csprojAssemblyReference.cache
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.csproj.CoreCompileInputs.cache
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\CaseManager.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\CaseManager.pdb
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\LtFlash.Common.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\RagePluginHookSDK.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\LSPD First Response.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\Gwen.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\RagePluginHookSDK.xml
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.csproj.CopyComplete
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.pdb
