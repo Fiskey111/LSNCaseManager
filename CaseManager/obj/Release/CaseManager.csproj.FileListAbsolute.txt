@@ -1,0 +1,10 @@
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Release\CaseManager.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Release\CaseManager.pdb
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Release\Newtonsoft.Json.pdb
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Release\CaseManager.csprojAssemblyReference.cache
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Release\CaseManager.csproj.CoreCompileInputs.cache
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Release\CaseManager.csproj.CopyComplete
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Release\CaseManager.dll
+C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Release\CaseManager.pdb
