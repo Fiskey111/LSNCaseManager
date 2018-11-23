@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\cfisk\.Rider2018.2\config\scratches" t="IncludeRecursive" />
-    <e p="C:\Users\cfisk\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\cfisk\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_LSNCaseManager.1123078455.00" t="ExcludeRecursive" />
-    <e p="C:\Users\cfisk\RiderProjects\LSNCaseManager" t="IncludeFlat">
+    <e p="C:\Users\Chris Fiske\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Chris Fiske\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_LSNCaseManager.1870469638.00" t="ExcludeRecursive" />
+    <e p="F:\RiderProjects\LSNCaseManager" t="IncludeFlat">
       <e p="CaseManager" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="CaseData" t="Include">
           <e p="CaseProgress.cs" t="Include" />
           <e p="CSIData.cs" t="Include" />
           <e p="CurrentCaseData.cs" t="Include" />
-          <e p="DataConverter.cs" t="Include" />
           <e p="EntityData.cs" t="Include" />
           <e p="EvidenceData.cs" t="Include" />
           <e p="IData.cs" t="Include" />
           <e p="InterrogationData.cs" t="Include" />
           <e p="SceneData.cs" t="Include" />
+          <e p="SceneItem.cs" t="Include" />
           <e p="StageData.cs" t="Include" />
           <e p="WrittenData.cs" t="Include" />
         </e>
+        <e p="CaseLoader" t="Include">
+          <e p="Case.cs" t="Include" />
+          <e p="DataGetter.cs" t="Include" />
+        </e>
         <e p="CaseManager.csproj" t="IncludeRecursive" />
-        <e p="LoadCase.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
@@ -30,6 +32,7 @@
         <e p="Resources" t="Include">
           <e p="Animations.cs" t="Include" />
           <e p="Dialogue.cs" t="Include" />
+          <e p="SpawnPoint.cs" t="Include" />
         </e>
       </e>
       <e p="LSNCaseManager.sln" t="IncludeFlat" />

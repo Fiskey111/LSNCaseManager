@@ -13,3 +13,13 @@ C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\RagePluginHook
 C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.csproj.CopyComplete
 C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.dll
 C:\Users\cfisk\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.pdb
+F:\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\CaseManager.dll
+F:\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\CaseManager.pdb
+F:\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\Newtonsoft.Json.dll
+F:\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\Newtonsoft.Json.pdb
+F:\RiderProjects\LSNCaseManager\CaseManager\bin\Debug\Newtonsoft.Json.xml
+F:\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.csprojAssemblyReference.cache
+F:\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.csproj.CoreCompileInputs.cache
+F:\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.csproj.CopyComplete
+F:\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.dll
+F:\RiderProjects\LSNCaseManager\CaseManager\obj\Debug\CaseManager.pdb

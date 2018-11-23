@@ -1,4 +1,6 @@
-﻿using LtFlash.Common;
+﻿
+
+using CaseManager.Resources;
 
 namespace CaseManager.CaseData
 {

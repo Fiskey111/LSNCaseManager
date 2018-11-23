@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Drawing;
-using Rage;
+using CaseManager.Resources;
 
 namespace CaseManager.CaseData
 {
@@ -42,17 +42,7 @@ namespace CaseManager.CaseData
         public int AreaRadius { get; set; }
         public Vector3 Position { get; set; }
         public Color BlipColor { get; set; }
-        public BlipSprite BlipSprite { get; set; }
-
-        public Blip Create()
-        {
-            return new Blip(Position, BlipRadius)
-            {
-                Color = BlipColor,
-                Sprite = BlipSprite,
-                Name = BlipName
-            };
-        }
+        public string BlipSprite { get; set; }
     }
 
     public class CallNotificationData
@@ -62,13 +52,8 @@ namespace CaseManager.CaseData
         public string Title { get; set; }
         public string Subtitle { get; set; }
         public string Text { get; set; }
-
-        public uint Show()
-        {
-            if (string.IsNullOrWhiteSpace(TextureDictionary)) TextureDictionary = "3dtextures";
-            if (string.IsNullOrWhiteSpace(TextureName)) TextureName = "mpgroundlogo_cops";
-            return Game.DisplayNotification(TextureDictionary, TextureName, Title, Subtitle, Text);
-        }
+        
+        public CallNotificationData() { }
     }
 
     public class CallBlipData
@@ -76,6 +61,8 @@ namespace CaseManager.CaseData
         public string Name { get; set; }
         public float Radius { get; set; }
         public string Color { get; set; }
-        public BlipSprite Sprite { get; set; }
+        public int Sprite { get; set; }
+        
+        public CallBlipData() { }
     }
 }

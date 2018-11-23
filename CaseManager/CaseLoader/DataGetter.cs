@@ -1,19 +1,18 @@
-using System;
-using System.Diagnostics;
+﻿using System;
 using System.IO;
+using CaseManager.CaseData;
 using Newtonsoft.Json;
-using Rage;
 
-namespace CaseManager.CaseData
+namespace CaseManager.CaseLoader
 {
-    public class DataConverter
+    public class DataGetter
     {
         private string FilePath { get; }
         private dynamic FileData { get; }
         
-        public DataConverter(string path)
+        public DataGetter(string path)
         {
-            Game.Console.Print($"DataConverter({path})");
+            
             if (!File.Exists(path)) return;
             FilePath = path;
             
@@ -24,8 +23,6 @@ namespace CaseManager.CaseData
         
         public object ConvertToObject()
         {
-            Game.Console.Print($"DataConverter.ConvertToObject()");
-
             if (GetTypeFromData() == typeof(CaseProgress)) 
                 return (CaseProgress) JsonConvert.DeserializeObject<CaseProgress>(FileData);
             if (GetTypeFromData() == typeof(CSIData)) 
@@ -46,9 +43,8 @@ namespace CaseManager.CaseData
             return null;
         }
 
-        private Type GetTypeFromData()
+        public Type GetTypeFromData()
         {
-            Game.Console.Print($"DataConverter.GetTypeFromData()");
             Type checkType = (Type) Type.GetType(Convert.ToString(FileData.DataType));
             return checkType;
         }

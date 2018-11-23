@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using CaseManager.Resources;
-using LtFlash.Common;
 
 namespace CaseManager.CaseData
 {
