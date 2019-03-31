@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59704010-3498-471d-a701-73a49b5226fa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1763288595">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="27" />
+          <entry key="targets" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="27" />
+          <entry key="MsBuild targets file" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2925" />
+          <entry key="txt" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2925" />
+          <entry key="PLAIN_TEXT" value="25" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="723248886">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="9" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2903" />
+          <entry key="txt" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2903" />
+          <entry key="PLAIN_TEXT" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="37" />
+          <entry key="csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="37" />
+          <entry key="Csproj" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>List</find>
+      <find>Evidence</find>
+      <find>Object</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CaseManager/Resources/Animations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/Resources/Dialogue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseLoader/Case.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseLoader/DataGetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/SceneItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/CSIData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/CaseProgress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/EntityData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/WrittenData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/SceneData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/IData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/EvidenceData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/CurrentCaseData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/StageData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/CaseData/InterrogationData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CaseManager/Resources/SpawnPoint.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CaseManager/Class1.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/EntryPoint.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/CaseProgress.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/CollectedEvidenceData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/Resources/Dialogue.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/LoadData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/DataConverter.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/LoadCase.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseLoader/LoadCase.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/Console.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/CSIData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/Extensions.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/Resources/Animations.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/SceneItem.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/SceneData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/EntityData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/InterrogationData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/WrittenData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/Resources/SpawnPoint.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseLoader/DataGetter.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/StageData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseData/CurrentCaseData.cs" />
+        <option value="$PROJECT_DIR$/CaseManager/CaseLoader/Case.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LSNCaseManager" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LSNCaseManager" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CaseManager" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/GTADev/refs/RagePluginHookSDK.dll" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59704010-3498-471d-a701-73a49b5226fa" name="Default Changelist" comment="" />
+      <created>1542430395759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542430395759</updated>
+      <workItem from="1542430398058" duration="6011000" />
+      <workItem from="1542453231921" duration="1592000" />
+      <workItem from="1542506637070" duration="8276000" />
+      <workItem from="1542905514610" duration="30000" />
+      <workItem from="1542955005987" duration="121000" />
+      <workItem from="1542959075620" duration="205000" />
+      <workItem from="1542963398501" duration="1446000" />
+      <workItem from="1543075368678" duration="2447000" />
+      <workItem from="1544526964473" duration="683000" />
+      <workItem from="1546026894670" duration="604000" />
+      <workItem from="1547905469322" duration="599000" />
+      <workItem from="1549640132343" duration="1050000" />
+      <workItem from="1551560020889" duration="5868000" />
+      <workItem from="1552760811052" duration="3613000" />
+      <workItem from="1552824966913" duration="8201000" />
+      <workItem from="1553033812003" duration="4340000" />
+      <workItem from="1554063938735" duration="154000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Creation">
+      <created>1542434220216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542434220216</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated with most data and in use with CaseCreatorGUI">
+      <created>1542970333270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542970333270</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated with most data and in use with CaseCreatorGUI">
+      <created>1542970449588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542970449588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated to reflect newest build of CaseManagerEditor">
+      <created>1554063976218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554063976218</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45240000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29637527" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.49946696" visible="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial Creation" />
+    <MESSAGE value="Updated with most data and in use with CaseCreatorGUI" />
+    <MESSAGE value="Updated to reflect newest build of CaseManagerEditor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated to reflect newest build of CaseManagerEditor" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/Microsoft.Common.CurrentVersion.targets" />
+    <entry file="file://$PROJECT_DIR$/CaseManager/LoadData.cs" />
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/DataConverter.cs" />
+    <entry file="file://$PROJECT_DIR$/CaseManager/Console.cs" />
+    <entry file="file://$PROJECT_DIR$/CaseManager/Extensions.cs" />
+    <entry file="file://$PROJECT_DIR$/CaseManager/Resources/Dialogue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/Resources/Animations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/InterrogationData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="102" selection-start-line="12" selection-start-column="102" selection-end-line="12" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/Resources/SpawnPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseLoader/DataGetter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/CaseProgress.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/CurrentCaseData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/StageData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <marker date="1552854199255" expanded="false" signature="6:84" ph="..." />
+            <marker date="1552854199255" expanded="true" signature="116:1731" ph="{...}" />
+            <marker date="1552854199255" expanded="true" signature="153:1040" ph="{...}" />
+            <marker date="1552854199255" expanded="true" signature="1072:1397" ph="{...}" />
+            <marker date="1552854199255" expanded="true" signature="1436:1729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseLoader/Case.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="69" column="9" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+          <folding>
+            <marker date="1553035671763" expanded="false" signature="6:175" ph="..." />
+            <marker date="1553035671763" expanded="true" signature="233:6863" ph="{...}" />
+            <marker date="1553035671763" expanded="false" signature="1014:1505" ph="{...}" />
+            <marker date="1553035671763" expanded="false" signature="1546:2245" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="2358:2961" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="3011:3759" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="3792:5020" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="3846:5010" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="5038:5161" ph="/// ATTENTION: ONLY FOR USE WITH CASE CREATOR TOOL -- ***DO NOT*** USE IN GAME ... " />
+            <marker date="1553035671763" expanded="true" signature="5203:6648" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="5263:5364" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="5413:5512" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="5565:5672" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="5724:5829" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="5883:5992" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="6051:6170" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="6221:6324" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="6375:6478" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="6531:6638" ph="{...}" />
+            <marker date="1553035671763" expanded="true" signature="6724:6857" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/WrittenData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="55" />
+          <folding>
+            <marker date="1544527034351" expanded="true" signature="106:1286" ph="{...}" />
+            <marker date="1544527034351" expanded="true" signature="145:1284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/SceneItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <marker date="1542963786958" expanded="true" signature="89:700" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/EntityData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <marker date="1544527011605" expanded="false" signature="6:62" ph="..." />
+            <marker date="1544527011605" expanded="true" signature="94:1487" ph="{...}" />
+            <marker date="1544527011605" expanded="true" signature="132:1485" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseManager.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/EvidenceData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <marker date="1542433417827" expanded="true" signature="115:407" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/IData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542433189941" expanded="true" signature="59:175" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/SceneData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <marker date="1544526979142" expanded="false" signature="6:62" ph="..." />
+            <marker date="1544526979142" expanded="true" signature="94:408" ph="{...}" />
+            <marker date="1544526979142" expanded="true" signature="131:406" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaseManager/CaseData/CSIData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <marker date="1542594551010" expanded="true" signature="62:1053" ph="{...}" />
+            <marker date="1542594551010" expanded="true" signature="97:1051" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
