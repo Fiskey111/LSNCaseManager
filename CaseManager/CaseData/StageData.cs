@@ -19,7 +19,7 @@ namespace CaseManager.CaseData
         public int DelayMaxSeconds { get; set; }
 
         // Blip Data
-        public CallBlipData BlipData { get; set; }
+        public StageBlipData BlipData { get; set; }
 
         // Notification Data
         public CallNotificationData NotificationData { get; set; }
@@ -32,7 +32,7 @@ namespace CaseManager.CaseData
         public string[] ID_InterrogationData { get; set; }
 
         // List<string>
-        public List<string> NextScript { get; set; }
+        public List<string> NextScript { get; set; } = new List<string>();
     }
 
     public class StageBlipData
@@ -43,6 +43,7 @@ namespace CaseManager.CaseData
         public Vector3 Position { get; set; }
         public Color BlipColor { get; set; }
         public string BlipSprite { get; set; }
+        public int Sprite { get; set; }
     }
 
     public class CallNotificationData
@@ -54,15 +55,5 @@ namespace CaseManager.CaseData
         public string Text { get; set; }
         
         public CallNotificationData() { }
-    }
-
-    public class CallBlipData
-    {
-        public string Name { get; set; }
-        public float Radius { get; set; }
-        public string Color { get; set; }
-        public int Sprite { get; set; }
-        
-        public CallBlipData() { }
     }
 }

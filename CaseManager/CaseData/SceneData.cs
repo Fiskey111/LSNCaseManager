@@ -11,6 +11,6 @@ namespace CaseManager.CaseData
         public string DataType { get; set; }
         
         // SceneItems
-        public List<SceneItem> Items { get; set; }
+        public List<SceneItem> Items { get; set; } = new List<SceneItem>();
     }
 }

@@ -10,7 +10,7 @@ namespace CaseManager.CaseData
         public string DataType { get; set; }
 
         // String
-        public List<InterrogationLine> InterrogationLines { get; set; }
+        public List<InterrogationLine> InterrogationLines { get; set; } = new List<InterrogationLine>();
     }
 
     public class InterrogationLine

@@ -16,14 +16,14 @@ namespace CaseManager.CaseData
         public string Text { get; set; }
         
         // String List
-        public List<string> EvidenceIDRequiredToRequest { get; set; }
-        public List<string> DialogueIDRequiredToRequest { get; set; }
-        public List<string> ReportIDRequiredToRequest { get; set; }
-        public List<string> StageIDRequiredToRequest { get; set; }
-        public List<string> EvidenceIDRequiredToAccept { get; set; }
-        public List<string> DialogueIDRequiredToAccept { get; set; }
-        public List<string> ReportIDRequiredToAccept { get; set; }
-        public List<string> StageIDRequiredToAccept { get; set; }
+        public List<string> EvidenceIDRequiredToRequest { get; set; } = new List<string>();
+        public List<string> DialogueIDRequiredToRequest { get; set; } = new List<string>();
+        public List<string> ReportIDRequiredToRequest { get; set; } = new List<string>();
+        public List<string> StageIDRequiredToRequest { get; set; } = new List<string>();
+        public List<string> EvidenceIDRequiredToAccept { get; set; } = new List<string>();
+        public List<string> DialogueIDRequiredToAccept { get; set; } = new List<string>();
+        public List<string> ReportIDRequiredToAccept { get; set; } = new List<string>();
+        public List<string> StageIDRequiredToAccept { get; set; } = new List<string>();
 
         // Enum
         public enum WrittenDataType { Document, Notes, Reports }

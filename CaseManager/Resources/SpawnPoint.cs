@@ -20,10 +20,15 @@ namespace CaseManager.Resources
 
     public class Rotator
     {
-        public float Pitch { get; set; }
-        public float Roll { get; set; }
-        public float Yaw { get; set; }
+        public float? Pitch { get; set; }
+        public float? Roll { get; set; }
+        public float? Yaw { get; set; }
         
         public Rotator() { }
+
+        public bool IsNull()
+        {
+            return Pitch == null || Roll == null || Yaw == null;
+        }
     }
 }

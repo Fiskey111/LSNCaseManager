@@ -22,7 +22,7 @@ namespace CaseManager.CaseData
         public SpawnPoint WitnessPickupPosition { get; set; } // Witness
 
         // Dialogue
-        public List<DialogueLine> Dialogue { get; set; }
+        public List<DialogueLine> Dialogue { get; set; } = new List<DialogueLine>();
 
         // Float
         public float SuspectChanceResisting { get; set; } // Suspect

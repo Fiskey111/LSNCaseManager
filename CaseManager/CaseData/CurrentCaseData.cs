@@ -9,14 +9,12 @@ namespace CaseManager.CaseData
         public string DataType { get; set; }
         
         public int CaseNo;
+        public bool Finished;
 
         public string LastStageID;
         public List<string> StagesPassed = new List<string>();
-
         public List<string> NextScripts = new List<string>();
-
-        public bool Finished;
-
+        
         public List<string> Victims = new List<string>();
         public List<string> Officers = new List<string>();
         public List<string> WitnessesInterviewed = new List<string>();
